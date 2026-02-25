@@ -1,0 +1,4 @@
+Stock Portfolio Summary
+AAPL: $32400
+TSLA: $62500
+Total Value: $94900
